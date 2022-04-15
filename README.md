@@ -1,5 +1,5 @@
 # Twitch-token-checker
 A Twitch token checker
 
-#credits
+# credits
 https://discord.gg/TUXfmDHnwK
